@@ -6,6 +6,6 @@ public class Main {
     Ejercicios ejercicios = new Ejercicios();
 
 
-    ejercicios.reto1();
+        System.out.println(ejercicios.reto2("cabo", "loca"));
     }
 }
